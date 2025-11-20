@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a546ca56b0f8bb6448f80554fbb830e5, type: 3}
+  m_Name: CrabClaw
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponData
+  weaponName: Crab Claw(M)
+  icon: {fileID: 1019185098283553480, guid: cdb89175dc9c18149951c0c56bb42d9a, type: 3}
+  attackType: 0
+  attackAngle: 360
+  rectangleSize: {x: 1, y: 3}
+  baseDamage: 24
+  baseAttackSpeed: 1
+  baseAttackRange: 2.5
+  baseCritChance: 0.1
+  baseCritMultiplier: 2
+  damagePerLevel: 18
+  attackSpeedPerLevel: 0.08
+  rangePerLevel: 0.15
+  critChancePerLevel: 0.01
+  critMultiplierPerLevel: 0.1
+  projectilePrefab: {fileID: 0}
+  meleeEffectPrefab: {fileID: 0}
+  projectileSpeed: 10
+  effectSizeMultiplier: 1.2
+  weaponColor: {r: 1, g: 1, b: 1, a: 1}
+  attackSound: {fileID: 0}
+  attackSounds: []
+  attackVolume: 0.4
+  pitchVariation: 0.1
+  meleeAnimationFrames:
+  - {fileID: -4463034145619554441, guid: 4df7e3d048b4f9c43b2277cc02dcdcc9, type: 3}
+  - {fileID: -8413363877835693349, guid: 4df7e3d048b4f9c43b2277cc02dcdcc9, type: 3}
+  - {fileID: 4069960706696637873, guid: 4df7e3d048b4f9c43b2277cc02dcdcc9, type: 3}
+  - {fileID: -2662037296488262301, guid: 4df7e3d048b4f9c43b2277cc02dcdcc9, type: 3}
+  - {fileID: -6052919767153392475, guid: 4df7e3d048b4f9c43b2277cc02dcdcc9, type: 3}
+  - {fileID: -2958745014733293661, guid: 4df7e3d048b4f9c43b2277cc02dcdcc9, type: 3}
+  - {fileID: -2353101594493951792, guid: 4df7e3d048b4f9c43b2277cc02dcdcc9, type: 3}
+  - {fileID: -2189492687481151448, guid: 4df7e3d048b4f9c43b2277cc02dcdcc9, type: 3}
+  - {fileID: -1872680732744115589, guid: 4df7e3d048b4f9c43b2277cc02dcdcc9, type: 3}
+  - {fileID: 4281554224567432085, guid: 4df7e3d048b4f9c43b2277cc02dcdcc9, type: 3}
+  - {fileID: -5226774866778880774, guid: 4df7e3d048b4f9c43b2277cc02dcdcc9, type: 3}
+  meleeAnimationFPS: 12
+  useAnimatedEffect: 1
+  spriteBaseDirection: 1

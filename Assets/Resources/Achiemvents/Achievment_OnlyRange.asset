@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5875db73727831d4d87cde70e7877d78, type: 3}
+  m_Name: Achievment_OnlyRange
+  m_EditorClassIdentifier: Assembly-CSharp::Achievment
+  description: Finished game with only Range weapon
+  icon: {fileID: 3153871905384636381, guid: 44c6901d523f2254890eceb7538c1129, type: 3}
+  requiresOnlyRangedWeapon: 1
+  requiresOnlyMeleeWeapon: 0
+  requiresNoHit: 0
+  requiresRich: 0
+  moneyNeeded: 0
+  requiresOnlyOneWeapon: 0
+  requiresLevel: 0
+  levelNeeded: 0

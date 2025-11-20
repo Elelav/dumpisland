@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a546ca56b0f8bb6448f80554fbb830e5, type: 3}
+  m_Name: Flamethrower
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponData
+  weaponName: Flamethrower(S)
+  icon: {fileID: -1562032675264776808, guid: ca7b0cac174009d4f8eacebb881e9626, type: 3}
+  attackType: 1
+  attackAngle: 30
+  rectangleSize: {x: 1, y: 3}
+  baseDamage: 70
+  baseAttackSpeed: 0.33
+  baseAttackRange: 4
+  baseCritChance: 0.08
+  baseCritMultiplier: 2
+  damagePerLevel: 30
+  attackSpeedPerLevel: 0
+  rangePerLevel: 0.3
+  critChancePerLevel: 0.01
+  critMultiplierPerLevel: 0.1
+  projectilePrefab: {fileID: 5123748511923192433, guid: a51a0948f8709da4bbb8cc40f69b4020, type: 3}
+  meleeEffectPrefab: {fileID: 0}
+  projectileSpeed: 12
+  effectSizeMultiplier: 1
+  weaponColor: {r: 0.94509804, g: 0.48036584, b: 0, a: 1}
+  attackSound: {fileID: 0}
+  attackSounds: []
+  attackVolume: 0.45
+  pitchVariation: 0.1
+  meleeAnimationFrames: []
+  meleeAnimationFPS: 12
+  useAnimatedEffect: 0
+  spriteBaseDirection: 1

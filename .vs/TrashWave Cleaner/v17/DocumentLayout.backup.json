@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UnityProject\\TrashWave Cleaner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B87AC31A-3EEC-D47B-AD25-A9D28BAC2BEC}|Assembly-CSharp.csproj|C:\\UnityProject\\TrashWave Cleaner\\assets\\scripts\\lootmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87AC31A-3EEC-D47B-AD25-A9D28BAC2BEC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lootmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87AC31A-3EEC-D47B-AD25-A9D28BAC2BEC}|Assembly-CSharp.csproj|C:\\UnityProject\\TrashWave Cleaner\\assets\\scripts\\loot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87AC31A-3EEC-D47B-AD25-A9D28BAC2BEC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87AC31A-3EEC-D47B-AD25-A9D28BAC2BEC}|Assembly-CSharp.csproj|c:\\unityproject\\trashwave cleaner\\assets\\scripts\\achievment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87AC31A-3EEC-D47B-AD25-A9D28BAC2BEC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\achievment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87AC31A-3EEC-D47B-AD25-A9D28BAC2BEC}|Assembly-CSharp.csproj|C:\\UnityProject\\TrashWave Cleaner\\assets\\scripts\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87AC31A-3EEC-D47B-AD25-A9D28BAC2BEC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87AC31A-3EEC-D47B-AD25-A9D28BAC2BEC}|Assembly-CSharp.csproj|C:\\UnityProject\\TrashWave Cleaner\\assets\\scripts\\weapondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87AC31A-3EEC-D47B-AD25-A9D28BAC2BEC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87AC31A-3EEC-D47B-AD25-A9D28BAC2BEC}|Assembly-CSharp.csproj|C:\\UnityProject\\TrashWave Cleaner\\assets\\scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87AC31A-3EEC-D47B-AD25-A9D28BAC2BEC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87AC31A-3EEC-D47B-AD25-A9D28BAC2BEC}|Assembly-CSharp.csproj|C:\\UnityProject\\TrashWave Cleaner\\assets\\scripts\\lootpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87AC31A-3EEC-D47B-AD25-A9D28BAC2BEC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lootpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87AC31A-3EEC-D47B-AD25-A9D28BAC2BEC}|Assembly-CSharp.csproj|C:\\UnityProject\\TrashWave Cleaner\\assets\\scripts\\deathscreenui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87AC31A-3EEC-D47B-AD25-A9D28BAC2BEC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deathscreenui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87AC31A-3EEC-D47B-AD25-A9D28BAC2BEC}|Assembly-CSharp.csproj|C:\\UnityProject\\TrashWave Cleaner\\assets\\scripts\\shopui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87AC31A-3EEC-D47B-AD25-A9D28BAC2BEC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shopui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87AC31A-3EEC-D47B-AD25-A9D28BAC2BEC}|Assembly-CSharp.csproj|C:\\UnityProject\\TrashWave Cleaner\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87AC31A-3EEC-D47B-AD25-A9D28BAC2BEC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87AC31A-3EEC-D47B-AD25-A9D28BAC2BEC}|Assembly-CSharp.csproj|C:\\UnityProject\\TrashWave Cleaner\\assets\\scripts\\pausemenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87AC31A-3EEC-D47B-AD25-A9D28BAC2BEC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausemenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 358,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\UnityProject\\TrashWave Cleaner\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\UnityProject\\TrashWave Cleaner\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwDIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T00:24:55.037Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Achievment.cs",
+              "DocumentMoniker": "C:\\UnityProject\\TrashWave Cleaner\\Assets\\Scripts\\Achievment.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Achievment.cs",
+              "ToolTip": "C:\\UnityProject\\TrashWave Cleaner\\Assets\\Scripts\\Achievment.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Achievment.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T18:49:25.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerInventory.cs",
+              "DocumentMoniker": "C:\\UnityProject\\TrashWave Cleaner\\Assets\\Scripts\\PlayerInventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInventory.cs",
+              "ToolTip": "C:\\UnityProject\\TrashWave Cleaner\\Assets\\Scripts\\PlayerInventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerInventory.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T18:48:49.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeaponData.cs",
+              "DocumentMoniker": "C:\\UnityProject\\TrashWave Cleaner\\Assets\\Scripts\\WeaponData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WeaponData.cs",
+              "ToolTip": "C:\\UnityProject\\TrashWave Cleaner\\Assets\\Scripts\\WeaponData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WeaponData.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T18:48:37.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\UnityProject\\TrashWave Cleaner\\Assets\\Scripts\\Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon.cs",
+              "ToolTip": "C:\\UnityProject\\TrashWave Cleaner\\Assets\\Scripts\\Weapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T18:48:34.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LootPool.cs",
+              "DocumentMoniker": "C:\\UnityProject\\TrashWave Cleaner\\Assets\\Scripts\\LootPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LootPool.cs",
+              "ToolTip": "C:\\UnityProject\\TrashWave Cleaner\\Assets\\Scripts\\LootPool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LootPool.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwFsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T17:15:37.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LootManager.cs",
+              "DocumentMoniker": "C:\\UnityProject\\TrashWave Cleaner\\Assets\\Scripts\\LootManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LootManager.cs",
+              "ToolTip": "C:\\UnityProject\\TrashWave Cleaner\\Assets\\Scripts\\LootManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LootManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T17:14:53.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Loot.cs",
+              "DocumentMoniker": "C:\\UnityProject\\TrashWave Cleaner\\Assets\\Scripts\\Loot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Loot.cs",
+              "ToolTip": "C:\\UnityProject\\TrashWave Cleaner\\Assets\\Scripts\\Loot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Loot.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T17:14:52.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeathScreenUI.cs",
+              "DocumentMoniker": "C:\\UnityProject\\TrashWave Cleaner\\Assets\\Scripts\\DeathScreenUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DeathScreenUI.cs",
+              "ToolTip": "C:\\UnityProject\\TrashWave Cleaner\\Assets\\Scripts\\DeathScreenUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DeathScreenUI.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAIwI8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T16:44:04.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShopUI.cs",
+              "DocumentMoniker": "C:\\UnityProject\\TrashWave Cleaner\\Assets\\Scripts\\ShopUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ShopUI.cs",
+              "ToolTip": "C:\\UnityProject\\TrashWave Cleaner\\Assets\\Scripts\\ShopUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ShopUI.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowHAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T16:28:53.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PauseMenuUI.cs",
+              "DocumentMoniker": "C:\\UnityProject\\TrashWave Cleaner\\Assets\\Scripts\\PauseMenuUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PauseMenuUI.cs",
+              "ToolTip": "C:\\UnityProject\\TrashWave Cleaner\\Assets\\Scripts\\PauseMenuUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PauseMenuUI.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwDIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T16:26:05.473Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 42,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

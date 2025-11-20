@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3369793747337619813
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 895960671167663024, guid: a238a2906d686684ca2eb6f8101397dd, type: 3}
+      propertyPath: 'enemyPrefabs.Array.data[0]'
+      value: 
+      objectReference: {fileID: 5933735309618824090, guid: 0696331a1c8143742afa5fd6a35bc62e, type: 3}
+    - target: {fileID: 2194593165106553932, guid: a238a2906d686684ca2eb6f8101397dd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 620.70825
+      objectReference: {fileID: 0}
+    - target: {fileID: 2194593165106553932, guid: a238a2906d686684ca2eb6f8101397dd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 359.5713
+      objectReference: {fileID: 0}
+    - target: {fileID: 2194593165106553932, guid: a238a2906d686684ca2eb6f8101397dd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2194593165106553932, guid: a238a2906d686684ca2eb6f8101397dd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2194593165106553932, guid: a238a2906d686684ca2eb6f8101397dd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2194593165106553932, guid: a238a2906d686684ca2eb6f8101397dd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2194593165106553932, guid: a238a2906d686684ca2eb6f8101397dd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2194593165106553932, guid: a238a2906d686684ca2eb6f8101397dd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2194593165106553932, guid: a238a2906d686684ca2eb6f8101397dd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2194593165106553932, guid: a238a2906d686684ca2eb6f8101397dd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3494267422181292196, guid: a238a2906d686684ca2eb6f8101397dd, type: 3}
+      propertyPath: m_Name
+      value: Enemy_TrashMonsterBoss
+      objectReference: {fileID: 0}
+    - target: {fileID: 3566307438548031987, guid: a238a2906d686684ca2eb6f8101397dd, type: 3}
+      propertyPath: m_ExcludeLayers.m_Bits
+      value: 512
+      objectReference: {fileID: 0}
+    - target: {fileID: 5496972274310386131, guid: a238a2906d686684ca2eb6f8101397dd, type: 3}
+      propertyPath: moveSpeed
+      value: 2.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6509535062772095214, guid: a238a2906d686684ca2eb6f8101397dd, type: 3}
+      propertyPath: lootCount
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 6509535062772095214, guid: a238a2906d686684ca2eb6f8101397dd, type: 3}
+      propertyPath: maxHealth
+      value: 700
+      objectReference: {fileID: 0}
+    - target: {fileID: 6509535062772095214, guid: a238a2906d686684ca2eb6f8101397dd, type: 3}
+      propertyPath: lootPrefab
+      value: 
+      objectReference: {fileID: 6892715738699177827, guid: 19b2031ab98fecf45a04c5611772c307, type: 3}
+    - target: {fileID: 6509535062772095214, guid: a238a2906d686684ca2eb6f8101397dd, type: 3}
+      propertyPath: useAutoScale
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8151471780463218234, guid: a238a2906d686684ca2eb6f8101397dd, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 2534399376709271222, guid: 4e912a8d3d978714994bff2d15de3531, type: 3}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a238a2906d686684ca2eb6f8101397dd, type: 3}

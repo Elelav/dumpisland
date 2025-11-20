@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &737074755472284240
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2450489328265119841, guid: d2c8ff349d90338449e8e74c1f96427b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -7018190279003129535, guid: ddf0755a92ef87c49b392daea64cd688, type: 3}
+    - target: {fileID: 2450489328265119841, guid: d2c8ff349d90338449e8e74c1f96427b, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 3686391084163413251, guid: d2c8ff349d90338449e8e74c1f96427b, type: 3}
+      propertyPath: m_Name
+      value: Enemy_OldLCD
+      objectReference: {fileID: 0}
+    - target: {fileID: 4173902767180917068, guid: d2c8ff349d90338449e8e74c1f96427b, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4173902767180917068, guid: d2c8ff349d90338449e8e74c1f96427b, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4173902767180917068, guid: d2c8ff349d90338449e8e74c1f96427b, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4173902767180917068, guid: d2c8ff349d90338449e8e74c1f96427b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 653.0287
+      objectReference: {fileID: 0}
+    - target: {fileID: 4173902767180917068, guid: d2c8ff349d90338449e8e74c1f96427b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 371.26883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4173902767180917068, guid: d2c8ff349d90338449e8e74c1f96427b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4173902767180917068, guid: d2c8ff349d90338449e8e74c1f96427b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4173902767180917068, guid: d2c8ff349d90338449e8e74c1f96427b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4173902767180917068, guid: d2c8ff349d90338449e8e74c1f96427b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4173902767180917068, guid: d2c8ff349d90338449e8e74c1f96427b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4173902767180917068, guid: d2c8ff349d90338449e8e74c1f96427b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4173902767180917068, guid: d2c8ff349d90338449e8e74c1f96427b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4173902767180917068, guid: d2c8ff349d90338449e8e74c1f96427b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4173902767180917068, guid: d2c8ff349d90338449e8e74c1f96427b, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4644215081163888962, guid: d2c8ff349d90338449e8e74c1f96427b, type: 3}
+      propertyPath: lootCount
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4644215081163888962, guid: d2c8ff349d90338449e8e74c1f96427b, type: 3}
+      propertyPath: maxHealth
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 4644215081163888962, guid: d2c8ff349d90338449e8e74c1f96427b, type: 3}
+      propertyPath: lootPrefab
+      value: 
+      objectReference: {fileID: 6892715738699177827, guid: 19b2031ab98fecf45a04c5611772c307, type: 3}
+    - target: {fileID: 4644215081163888962, guid: d2c8ff349d90338449e8e74c1f96427b, type: 3}
+      propertyPath: useAutoScale
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d2c8ff349d90338449e8e74c1f96427b, type: 3}

@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a546ca56b0f8bb6448f80554fbb830e5, type: 3}
+  m_Name: Shovel
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponData
+  weaponName: Shovel(M)
+  icon: {fileID: 4589152208623323715, guid: 96ac2dacf2ec48d479b730f87cb8e267, type: 3}
+  attackType: 2
+  attackAngle: 45
+  rectangleSize: {x: 1, y: 3}
+  baseDamage: 33
+  baseAttackSpeed: 1
+  baseAttackRange: 2.5
+  baseCritChance: 0.05
+  baseCritMultiplier: 2
+  damagePerLevel: 21
+  attackSpeedPerLevel: 0.1
+  rangePerLevel: 0.2
+  critChancePerLevel: 0.01
+  critMultiplierPerLevel: 0.1
+  projectilePrefab: {fileID: 0}
+  meleeEffectPrefab: {fileID: 551984255682604516, guid: c9e80172dcd5e4e41808a6cb271aadbd, type: 3}
+  projectileSpeed: 10
+  effectSizeMultiplier: 1
+  weaponColor: {r: 0.3773585, g: 0.33997864, b: 0.33997864, a: 0.8235294}
+  attackSound: {fileID: 0}
+  attackSounds: []
+  attackVolume: 0.2
+  pitchVariation: 0.1
+  meleeAnimationFrames:
+  - {fileID: -907776890014986012, guid: c29c32a4e72c3ef41acbe16a620ade1a, type: 3}
+  - {fileID: -4741977889001918989, guid: c29c32a4e72c3ef41acbe16a620ade1a, type: 3}
+  - {fileID: 1442281147080724263, guid: c29c32a4e72c3ef41acbe16a620ade1a, type: 3}
+  - {fileID: 4524667582719610128, guid: c29c32a4e72c3ef41acbe16a620ade1a, type: 3}
+  - {fileID: -5146892018388414259, guid: c29c32a4e72c3ef41acbe16a620ade1a, type: 3}
+  - {fileID: 966109069828791560, guid: c29c32a4e72c3ef41acbe16a620ade1a, type: 3}
+  - {fileID: -7628283260630338953, guid: c29c32a4e72c3ef41acbe16a620ade1a, type: 3}
+  - {fileID: 8458061898978534875, guid: c29c32a4e72c3ef41acbe16a620ade1a, type: 3}
+  - {fileID: 2879650517426426429, guid: c29c32a4e72c3ef41acbe16a620ade1a, type: 3}
+  - {fileID: -1002771941620170200, guid: c29c32a4e72c3ef41acbe16a620ade1a, type: 3}
+  meleeAnimationFPS: 12
+  useAnimatedEffect: 1
+  spriteBaseDirection: 1

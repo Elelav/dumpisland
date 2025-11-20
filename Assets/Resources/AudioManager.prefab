@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8963988949447159132
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8998309523771007562}
+  - component: {fileID: 8658448523131754138}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8998309523771007562
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8963988949447159132}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8658448523131754138
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8963988949447159132}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ef9ed62f12a485429df8fe21032bedf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AudioManager
+  musicSource: {fileID: 0}
+  sfxSource: {fileID: 0}
+  menuMusic: {fileID: 8300000, guid: bb6253028a97a1443b50d6971c2288e7, type: 3}
+  gameMusic: {fileID: 8300000, guid: bb6253028a97a1443b50d6971c2288e7, type: 3}
+  bossMusic: {fileID: 0}
+  playerHitSound: {fileID: 8300000, guid: 528d400b04b410548a746d9bc82694ec, type: 3}
+  playerDeathSound: {fileID: 0}
+  levelUpSound: {fileID: 8300000, guid: f3512bd00c29b914ea510fcaea4a3d09, type: 3}
+  enemyHitSound: {fileID: 8300000, guid: e62cd324cda10ec49a15744da7206c8b, type: 3}
+  enemyDeathSound: {fileID: 8300000, guid: b9b1d72be3bb0b54a9b3223a4a0d8ce8, type: 3}
+  bossAbilitySound: {fileID: 8300000, guid: 080a2af180889494bb158314213daa63, type: 3}
+  eliteAbilitySound: {fileID: 8300000, guid: 2b80dfacbf6e00442a5194587765752d, type: 3}
+  swordAttackSound: {fileID: 0}
+  bowAttackSound: {fileID: 0}
+  critSound: {fileID: 0}
+  collectSound: {fileID: 8300000, guid: 58e3324e3350ab1418b58c5a16a4b8be, type: 3}
+  dropOffSound: {fileID: 8300000, guid: a52aa0bf2e8c91d488adb7b7ea00284c, type: 3}
+  purchaseSound: {fileID: 8300000, guid: d4e90d414c42caf469aea8a495d7f11d, type: 3}
+  buttonClickSound: {fileID: 8300000, guid: 662f211ae8d57444f8c0023a7e29ce58, type: 3}
+  waveStartSound: {fileID: 0}
+  selectedReward: {fileID: 8300000, guid: e406d017f9be600408d56586dd257091, type: 3}
+  musicFadeTime: 0
+  baseMusicVolume: 0.1
+  baseSFXVolume: 1
+  maxSimultaneousHitSounds: 5
+  hitSoundMinCooldown: 0.03
+  useVolumeScaling: 1

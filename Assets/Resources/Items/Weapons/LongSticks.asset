@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a546ca56b0f8bb6448f80554fbb830e5, type: 3}
+  m_Name: LongSticks
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponData
+  weaponName: Stick(M)
+  icon: {fileID: 7204503400320101405, guid: fcb79e2f1554925409b8c5928d912d02, type: 3}
+  attackType: 0
+  attackAngle: 360
+  rectangleSize: {x: 1, y: 3}
+  baseDamage: 20
+  baseAttackSpeed: 2
+  baseAttackRange: 3
+  baseCritChance: 0.05
+  baseCritMultiplier: 2.5
+  damagePerLevel: 15
+  attackSpeedPerLevel: 0.5
+  rangePerLevel: 0.1
+  critChancePerLevel: 0.01
+  critMultiplierPerLevel: 0.1
+  projectilePrefab: {fileID: 0}
+  meleeEffectPrefab: {fileID: 0}
+  projectileSpeed: 10
+  effectSizeMultiplier: 1
+  weaponColor: {r: 1, g: 1, b: 1, a: 1}
+  attackSound: {fileID: 0}
+  attackSounds: []
+  attackVolume: 0.4
+  pitchVariation: 0.1
+  meleeAnimationFrames:
+  - {fileID: -4573264013552916244, guid: 4a4b2ea3a5583944ebf5e4eac7cf20d0, type: 3}
+  - {fileID: -3308641577516284221, guid: 4a4b2ea3a5583944ebf5e4eac7cf20d0, type: 3}
+  - {fileID: -1855533812479357882, guid: 4a4b2ea3a5583944ebf5e4eac7cf20d0, type: 3}
+  - {fileID: -5347215578796491072, guid: 4a4b2ea3a5583944ebf5e4eac7cf20d0, type: 3}
+  - {fileID: -7877785856951526921, guid: 4a4b2ea3a5583944ebf5e4eac7cf20d0, type: 3}
+  - {fileID: -835941364719980713, guid: 4a4b2ea3a5583944ebf5e4eac7cf20d0, type: 3}
+  - {fileID: 5394546560990941522, guid: 4a4b2ea3a5583944ebf5e4eac7cf20d0, type: 3}
+  - {fileID: -4537344003823394637, guid: 4a4b2ea3a5583944ebf5e4eac7cf20d0, type: 3}
+  - {fileID: -6923425489987511491, guid: 4a4b2ea3a5583944ebf5e4eac7cf20d0, type: 3}
+  - {fileID: -4361614668535692887, guid: 4a4b2ea3a5583944ebf5e4eac7cf20d0, type: 3}
+  - {fileID: 4846587865769385908, guid: 4a4b2ea3a5583944ebf5e4eac7cf20d0, type: 3}
+  - {fileID: -5475628285531660550, guid: 4a4b2ea3a5583944ebf5e4eac7cf20d0, type: 3}
+  meleeAnimationFPS: 12
+  useAnimatedEffect: 1
+  spriteBaseDirection: 1

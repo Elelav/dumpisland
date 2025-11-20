@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a546ca56b0f8bb6448f80554fbb830e5, type: 3}
+  m_Name: Umbrella
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponData
+  weaponName: PickAxe(M)
+  icon: {fileID: -5493329184363624797, guid: 77a28f186514397428a3e0d5469ba361, type: 3}
+  attackType: 1
+  attackAngle: 60
+  rectangleSize: {x: 1, y: 3}
+  baseDamage: 36
+  baseAttackSpeed: 1.2
+  baseAttackRange: 3
+  baseCritChance: 0.8
+  baseCritMultiplier: 2
+  damagePerLevel: 22
+  attackSpeedPerLevel: 0.1
+  rangePerLevel: 0.2
+  critChancePerLevel: 0.01
+  critMultiplierPerLevel: 0.1
+  projectilePrefab: {fileID: 0}
+  meleeEffectPrefab: {fileID: 551984255682604516, guid: c9e80172dcd5e4e41808a6cb271aadbd, type: 3}
+  projectileSpeed: 10
+  effectSizeMultiplier: 1
+  weaponColor: {r: 0, g: 0, b: 0, a: 1}
+  attackSound: {fileID: 0}
+  attackSounds: []
+  attackVolume: 0.4
+  pitchVariation: 0.1
+  meleeAnimationFrames:
+  - {fileID: -3114185277167916910, guid: b20ea89e1a178c3489e95fdac73213ea, type: 3}
+  - {fileID: -2403957285675655216, guid: b20ea89e1a178c3489e95fdac73213ea, type: 3}
+  - {fileID: -6016845559811531478, guid: b20ea89e1a178c3489e95fdac73213ea, type: 3}
+  - {fileID: -9038383892608052886, guid: b20ea89e1a178c3489e95fdac73213ea, type: 3}
+  - {fileID: -3223501715012770872, guid: b20ea89e1a178c3489e95fdac73213ea, type: 3}
+  - {fileID: -4472784399729029669, guid: b20ea89e1a178c3489e95fdac73213ea, type: 3}
+  - {fileID: 1885756187751843861, guid: b20ea89e1a178c3489e95fdac73213ea, type: 3}
+  - {fileID: 5065904747355924700, guid: b20ea89e1a178c3489e95fdac73213ea, type: 3}
+  - {fileID: -2983485104913999450, guid: b20ea89e1a178c3489e95fdac73213ea, type: 3}
+  - {fileID: 7566726568332516954, guid: b20ea89e1a178c3489e95fdac73213ea, type: 3}
+  - {fileID: 7670490028952361433, guid: b20ea89e1a178c3489e95fdac73213ea, type: 3}
+  - {fileID: 8608461651578211754, guid: b20ea89e1a178c3489e95fdac73213ea, type: 3}
+  meleeAnimationFPS: 12
+  useAnimatedEffect: 1
+  spriteBaseDirection: 1

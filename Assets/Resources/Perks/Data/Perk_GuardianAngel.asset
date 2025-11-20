@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ef154728ad55cc4ebde825678943b1d, type: 3}
+  m_Name: Perk_GuardianAngel
+  m_EditorClassIdentifier: Assembly-CSharp::PerkData
+  perkName: Guardian Angel
+  description: Survive taking an otherwise lethal strike and recevie 100HP. Burns
+    on activation.
+  icon: {fileID: 3500676637663921849, guid: 33d4a1cf9e316184a8c3f6b271322798, type: 3}
+  maxLevel: 1
+  isStackable: 0
+  perkType: 5
+  effects:
+    damageMultiplier: 0
+    meleeDamageMultiplier: 0
+    rangedDamageMultiplier: 0
+    critChanceBonus: 0
+    critMultiplierBonus: 0
+    moveSpeedMultiplier: 0
+    attackSpeedMultiplier: 0
+    maxHealthBonus: 0
+    maxHealthMultiplier: 0
+    healthRegenPerSecond: 0
+    damageTakenMultiplier: 0
+    dodgeChance: 0
+    armorBonus: 0
+    attackRangeMultiplier: 0
+    projectileCountBonus: 0
+    garbageValueMultiplier: 0
+    shopDiscountMultiplier: 0
+    expMultiplier: 0
+    bagCapacityBonus: 0
+    bagCapacityMultiplier: 0
+    canPierce: 0
+    pierceCount: 0
+    hasChainLightning: 0
+    hasKnockback: 0
+    hasMagnet: 0
+    magnetRadius: 0
+    hasGuardianAngel: 1
+    canPhaseThrough: 0
+    grantsExtraRewardSlots: 0
+    extraRewardSlots: 1
+    allStatsMultiplier: 0
+  requiresRangedWeapon: 0
+  requiresMeleeWeapon: 0
+  requiresBothWeaponTypes: 0
+  perkColor: {r: 0.1745283, g: 0.65749127, b: 1, a: 1}
+  rarity: 3
